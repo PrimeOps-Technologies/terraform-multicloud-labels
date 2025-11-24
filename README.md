@@ -189,6 +189,8 @@ resource "azurerm_resource_group" "main" {
 | <img src="https://github.com/themanojkumawat.png" width="60" style="border-radius:50%"> | [@themanojkumawat](https://github.com/themanojkumawat) |
 | <img src="https://github.com/Rohityadav-7.png" width="60" style="border-radius:50%"> | [@Rohityadav-7](https://github.com/Rohityadav-7) |
 | <img src="https://github.com/yrahul05.png" width="60" style="border-radius:50%"> | [@yrahul05](https://github.com/yrahul05) |
+| <img src="https://github.com/therahul28.png" width="60" style="border-radius:50%"> | [@therahul28](https://github.com/therahul28) |
+
 
 
 
