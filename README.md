@@ -65,7 +65,7 @@ module "labels" {
   attributes  = ["v1"]
 
   extra_tags = {
-    Owner      = "Sohan"
+    Owner      = "PrimeOps"
     CostCenter = "Finance"
   }
 }
