@@ -1,25 +1,27 @@
 # 🌍 Terraform-Multicloud-Labels
 
-[![PrimeOps](https://img.shields.io/badge/Made%20by-PrimeOps-blue?style=flat-square&logo=terraform)](https://www.PrimeOps.com)
+[![PrimeOps-Technologies](https://img.shields.io/badge/Made%20by-PrimeOps-blue?style=flat-square&logo=terraform)](https://primeops.co.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Terraform](https://img.shields.io/badge/Terraform-1.13%2B-purple.svg?logo=terraform)](#)
 [![CI](https://github.com/PrimeOps-Technologies/terraform-multicloud-labels/actions/workflows/ci.yml/badge.svg)](https://github.com/PrimeOps-Technologies/terraform-multicloud-labels/actions/workflows/ci.yml)
+[![Latest Release](https://img.shields.io/github/release/PrimeOps-Technologies/terraform-aws-vpc.svg)](https://github.com/PrimeOps-Technologies/terraform-aws-vpc/releases/latest)
 
-> 🧩 **A universal, opinionated Terraform module by [PrimeOps](https://www.primeops.co.in/)**  
+> 🌩️ **A production-grade, reusable AWS VPC module by [PrimeOps-Technologies](https://primeops.co.in)**
 > to generate consistent **resource names, tags, and labels** across **AWS, Azure, GCP, DigitalOcean, and Hetzner**.
 
 ---
 
-## 🏢 About PrimeOps
+## 🏢 About PrimeOps-Technologies
 
-**PrimeOps** delivers **Cloud & DevOps excellence** for modern teams:
+**PrimeOps-Technologies** delivers **Cloud & DevOps excellence** for modern teams:
 - 🚀 **Infrastructure Automation** with Terraform, Ansible & Kubernetes
 - 💰 **Cost Optimization** via scaling & right-sizing
 - 🛡️ **Security & Compliance** baked into CI/CD pipelines
 - ⚙️ **Fully Managed Operations** across AWS, Azure, and GCP
 
-> 💡 Need enterprise-grade DevOps automation?  
-> 👉 Visit [**www.primeops.co.in**](https://www.primeops.co.in) or email **primeopstechnologies@gmail.com**
+
+> 💡 Need enterprise-grade DevOps automation?
+> 👉 Visit [**primeops.co.in**](https://primeops.co.in) or email **primeopstechnologies@gmail.com**
 
 ---
 
@@ -30,6 +32,8 @@
 - ✅ Generates AWS-compatible **`Name`** and title-case tags
 - ✅ Prevents invalid characters & enforces compliance
 - ✅ Lightweight, reusable, and easy to integrate
+- ✅ Seamless integration with other PrimeOps-Technologies Terraform modules
+
 
 ---
                         🧩 Architecture — Naming Flow
@@ -182,17 +186,11 @@ resource "azurerm_resource_group" "main" {
 | **Hetzner**    | Lowercase        | `[a-z0-9_-]`       | `environment`, `repository`     |
 
 ## 👥 Team Members
-
-| Photo |  GitHub |
-|-------|-------|
-| <img src="https://github.com/sureshyadav76.png" width="60" style="border-radius:50%"> | [@sureshyadav76](https://github.com/sureshyadav76) |
-| <img src="https://github.com/themanojkumawat.png" width="60" style="border-radius:50%"> | [@themanojkumawat](https://github.com/themanojkumawat) |
-| <img src="https://github.com/Rohityadav-7.png" width="60" style="border-radius:50%"> | [@Rohityadav-7](https://github.com/Rohityadav-7) |
-| <img src="https://github.com/yrahul05.png" width="60" style="border-radius:50%"> | [@yrahul05](https://github.com/yrahul05) |
-| <img src="https://github.com/therahul28.png" width="60" style="border-radius:50%"> | [@therahul28](https://github.com/therahul28) |
+<table> <tr> <td align="center"> <img src="https://github.com/yrahul05.png" width="80" style="border-radius:50%"><br> <strong>Rahul Yadav</strong><br> <sub>CEO & CTO</sub><br> <a href="https://github.com/yrahul05">@yrahul05</a> </td>  <td align="center"> <img src="https://github.com/themanojkumawat.png" width="80" style="border-radius:50%"><br> <strong>Manoj Kumawat</strong><br> <sub>DevOps Lead</sub><br> <a href="https://github.com/themanojkumawat">@themanojkumawat</a> </td> <td align="center"> <img src="https://github.com/sureshyadav76.png" width="80" style="border-radius:50%"><br> <strong>Suresh Yadav</strong><br> <sub>Senior DevOps Engineer</sub><br> <a href="https://github.com/sureshyadav76">@sureshyadav76</a> </td> <td align="center"> <img src="https://github.com/therahul28.png" width="80" style="border-radius:50%"><br> <strong>Rahul</strong><br> <sub>Senior DevOps Engineer</sub><br> <a href="https://github.com/therahul28">@therahul28</a> </td> <td align="center"> <img src="https://github.com/abhisharma24.png" width="80" style="border-radius:50%"><br> <strong>Abhi Sharma</strong><br> <sub>Senior DevOps Engineer</sub><br> <a href="https://github.com/abhisharma24">@abhisharma24</a> </td> <td align="center"> <img src="https://github.com/Rohityadav-7.png" width="80" style="border-radius:50%"><br> <strong>Rohit Yadav</strong><br> <sub>COO</sub><br> <a href="https://github.com/Rohityadav-7">@Rohityadav-7</a> </td>  </tr> </table>
 
 
 
 
-### 💙 Maintained by [PrimeOps](https://www.primeops.co.in)
-> PrimeOps — Simplifying Cloud, Securing Scale.
+### 💙 Maintained by [PrimeOps-Technologies](https://primeops.co.in)
+> PrimeOps-Technologies — Simplifying Cloud, Securing Scale.
+
