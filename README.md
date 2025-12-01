@@ -6,7 +6,7 @@
 [![CI](https://github.com/PrimeOps-Technologies/terraform-multicloud-labels/actions/workflows/ci.yml/badge.svg)](https://github.com/PrimeOps-Technologies/terraform-multicloud-labels/actions/workflows/ci.yml)
 [![Latest Release](https://img.shields.io/github/release/PrimeOps-Technologies/terraform-aws-vpc.svg)](https://github.com/PrimeOps-Technologies/terraform-aws-vpc/releases/latest)
 
-> 🌩️ **A production-grade, reusable AWS VPC module by [PrimeOps-Technologies](https://primeops.co.in)**
+> 🌩️ **A production-grade, reusable Multicloud Labels module by [PrimeOps-Technologies](https://primeops.co.in)**
 > to generate consistent **resource names, tags, and labels** across **AWS, Azure, GCP, DigitalOcean, and Hetzner**.
 
 ---
